@@ -1,0 +1,15 @@
+Dog,hund,1
+Fugl,bird,2
+Abe,monkey,1
+Cat,kat,1
+Snake,slange,2
+Fish,fisk,2
+Surikat,meerkat,1
+Elephant,elefant,2
+Hus,house,1
+Building,bygning,1
+Løve,lion,1
+Table,bord,1
+Stol,chair,1
+Tiger,tiger,1
+Ørn,eagle,1
